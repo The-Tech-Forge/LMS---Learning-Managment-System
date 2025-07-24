@@ -10,8 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "ILEARNOVA - Learning Management System",
-  description: "Complete Learning Management System for educational institutions",
-    generator: 'v0.dev'
+  description: "Complete Learning Management System"
 }
 
 export default function RootLayout({
