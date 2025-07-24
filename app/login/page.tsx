@@ -143,11 +143,7 @@ export default function LoginPage() {
             </Button>
           </form>
 
-          <div className="mt-6 text-center text-sm">
-            <p className="text-muted-foreground">Demo credentials:</p>
-            <p className="text-xs mt-1">Email: Use role-based emails (admin@ilearnova.com, teacher@school.edu, etc.)</p>
-            <p className="text-xs">Password: password</p>
-          </div>
+
         </CardContent>
       </Card>
     </div>
